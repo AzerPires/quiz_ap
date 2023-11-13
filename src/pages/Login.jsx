@@ -4,6 +4,7 @@ function Login() {
     <div>
       <h1>Login</h1>
       <Menu />
+      <p>Inicio</p>
     </div>
   );
 }
