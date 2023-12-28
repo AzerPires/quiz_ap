@@ -1,8 +1,8 @@
 function Menu() {
   return (
     <div>
-      <a href="Accueil"> Accueil</a> &nbsp;&nbsp;&nbsp;
-      <a href="/"> Quiz</a> &nbsp;&nbsp;&nbsp;      
+      <a href="Accueil"></a> &nbsp;&nbsp;&nbsp;
+      <a href="/"></a> &nbsp;&nbsp;&nbsp;      
     </div>
  );
 }
