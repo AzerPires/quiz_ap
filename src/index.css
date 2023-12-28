@@ -6,4 +6,12 @@
     background-color: rgb(204, 204, 238);
 }
 
+.accueil-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Isso faz com que o contêiner ocupe 100% da altura da tela */
+  }
+
 
