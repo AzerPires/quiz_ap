@@ -1,9 +1,8 @@
 import Menu from "./Menu";
+
 function Accueil() {
     return (
-        <div>
-
-            
+        <div>            
 <Menu/>
         </div>
     )
