@@ -1,7 +1,5 @@
 import Menu from "./Menu";
 
-
-
 function Quiz() {
   return (
     <div>      
