@@ -13,5 +13,23 @@
     justify-content: center;
     height: 100vh; /* Isso faz com que o contêiner ocupe 100% da altura da tela */
   }
-
+  .button-container {
+    margin-top: 40px; /* Ajuste conforme necessário */
+  }
+  .button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px; /* Adiciona espaço à direita do botão */
+  }
+  .text {
+    font-size: 24px; /* Changer la taille */
+    font-weight: bold; /*negrito*/
+  }
+  
+  
+ 
 
