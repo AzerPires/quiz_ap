@@ -1,13 +1,11 @@
 import Menu from "./Menu";
 import { Link } from 'react-router-dom';
 
-
-
 function Accueil() {
   return (
     <div className="accueil-container">
       <Menu />
-      <div className="text">Voce está entrando no divertido mundo do Quiz App. <br /> Clique no botão abaixo e teste seus conhecimentos em linguagens de programação.
+      <div className="text">Vous entrez dans le monde amusant de Quiz App. <br /> Cliquez sur le bouton ci-dessous et testez vos connaissances en langages de programmation.
       </div>
       <div className="button-container">
         <Link to="/">
