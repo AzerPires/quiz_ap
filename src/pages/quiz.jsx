@@ -7,7 +7,7 @@ function Quiz() {
       <Menu />
       <p>QUIZ APP</p>
       <div className="button-container">
-        <Link to="Accueil">
+        <Link to="/">
           <button className="button">Accueil</button>
         </Link>
       </div>
